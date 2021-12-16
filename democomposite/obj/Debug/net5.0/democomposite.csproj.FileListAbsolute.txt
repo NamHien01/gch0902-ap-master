@@ -1,0 +1,16 @@
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.csproj.AssemblyReference.cache
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.AssemblyInfoInputs.cache
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.AssemblyInfo.cs
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\democomposite.exe
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\democomposite.deps.json
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\democomposite.runtimeconfig.json
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\democomposite.runtimeconfig.dev.json
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\democomposite.dll
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\ref\democomposite.dll
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\bin\Debug\net5.0\democomposite.pdb
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.dll
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\ref\democomposite.dll
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.pdb
+C:\Users\Nam\Downloads\gch0902-ap-master\democomposite\obj\Debug\net5.0\democomposite.genruntimeconfig.cache
